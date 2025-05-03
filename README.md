@@ -12,7 +12,7 @@ Website modern dan responsif untuk restoran dengan tampilan profesional, cocok u
 
 ## 🔥 Preview
 
-![Preview Website] (restaurant-website.png)
+![Preview Website](restaurant-website.png)
 
 ## 🛠️ Teknologi yang Digunakan
 
